@@ -12,6 +12,7 @@ export LC_ALL='fr_FR.UTF-8'
 export LANGUAGE='fr_FR:fr'
 export TERM=xterm
 export ZSH='/root/.oh-my-zsh'
+export TZ=Europe/Paris
 
 # Fix some problems with key bindings
 bindkey '^[[H' beginning-of-line

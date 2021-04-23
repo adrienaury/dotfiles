@@ -1,0 +1,5 @@
+# colors to define a custom theme
+colors:
+  title: [Concealed]
+  ok:    [FgHiGreen, Bold]
+  error: [FgHiRed, Bold]

@@ -39,3 +39,4 @@ if [ -f ~/.zshrc ]; then
   zshrc >> ~/.zshrc
 fi
 
+cp -a .neon ~
